@@ -15,7 +15,7 @@ This was submitted to Hack Club's Macondo
 - Resistor 10kΩ x2
 - Push button x1
 
-- Computer with Python (1.12 or higher i think)
+- Computer with Python (3.12 or higher i think)
   
 _you can prob do without all of this but this is just what I have!
 
