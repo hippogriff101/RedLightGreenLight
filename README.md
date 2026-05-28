@@ -53,3 +53,6 @@ Make sure the `.mp3` files are in the same directory.
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/062fec2c-ea75-4498-b3cc-be25a51705de" />
 
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/8d1b087d-33a2-41ae-9523-c060516aa586" />
+
+![](badly-drawn-schematic.png)
+(_swap pins to match code_)
